@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.abondar.bigxmlparser.ParseClasses;
+package org.abondar.experimental.bigxmlparser.ParseClasses;
 
 import java.util.Objects;
 

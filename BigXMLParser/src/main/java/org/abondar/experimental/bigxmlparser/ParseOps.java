@@ -5,7 +5,7 @@
  */
 package org.abondar.experimental.bigxmlparser;
 
-import org.abondar.bigxmlparser.ParseClasses.OfferBean;
+import org.abondar.experimental.bigxmlparser.ParseClasses.OfferBean;
 
 import java.io.File;
 import java.io.FileInputStream;

@@ -6,7 +6,7 @@
 package org.abondar.experimental.bigxmlparser;
 
 import java.io.BufferedReader;
-import org.abondar.bigxmlparser.ParseClasses.OfferBean;
+import org.abondar.experimental.bigxmlparser.ParseClasses.OfferBean;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
